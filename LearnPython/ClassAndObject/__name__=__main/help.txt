@@ -1,0 +1,5 @@
+Dont understand Class. Use help() function
+''' ''' -> docstring
+- In Class or Fuction, using help() shows docstring  inside it.
+
+Ex: help(__init__) or help(class_name) or help(function_name), etc

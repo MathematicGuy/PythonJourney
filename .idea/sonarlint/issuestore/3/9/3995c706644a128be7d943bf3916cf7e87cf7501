@@ -1,0 +1,6 @@
+
+tpython:S117"XRename this parameter "Catch_phrase" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÎÒøÿÿÿÿ
+rpython:S117"VRename this parameter "First_name" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÎÒøÿÿÿÿ
+npython:S117"RRename this parameter "Height" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÎÒøÿÿÿÿ
+qpython:S117"URename this parameter "Last_name" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÎÒøÿÿÿÿ
+mpython:S117"QRename this parameter "Trait" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ÎÒøÿÿÿÿ

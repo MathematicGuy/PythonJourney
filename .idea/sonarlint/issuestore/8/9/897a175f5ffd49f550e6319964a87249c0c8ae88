@@ -1,0 +1,4 @@
+
+gpython:S1542"PRename function "totalMoney" to match the regular expression ^[a-z_][a-z0-9_]*$.(ακª)
+vpython:S117"`Rename this local variable "orderIngredient" to match the regular expression ^[_a-z][a-z0-9_]*$.(ΐΑΠ0
+wpython:S117"[Rename this local variable "coffeeCost" to match the regular expression ^[_a-z][a-z0-9_]*$.(ισβψÿÿÿÿ

@@ -2,9 +2,11 @@ from turtle import Screen
 from snake_brain import snake
 import time
 from food import Food
-from scoreBoard import ScoreBoard
+from score_board import ScoreBoard
 
 # TODO-5: Create a scoreboard
+
+score_board = ScoreBoard()
 
 # TODO-1: Setup Screen
 screen = Screen()
@@ -16,7 +18,6 @@ screen.tracer(0)  # smoother animation. [action per frame]
 # TODO-2: Create Snake body
 Snake = snake(3, 'white')
 apple = Food()
-score_board = ScoreBoard()
 
 screen.listen()  # listen before onkey()
 screen.onkey(Snake.up, 'Up')

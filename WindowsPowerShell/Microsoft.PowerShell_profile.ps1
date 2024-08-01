@@ -1,1 +1,0 @@
-oh-my-posh init pwsh --config 'C:\Users\boboi\AppData\Local\Programs\oh-my-posh\themes\velvet.omp.json' | Invoke-Expression
